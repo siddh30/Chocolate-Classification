@@ -1,4 +1,5 @@
 # Chocolate-Classification
+### Task
 Classify different types of Chocolates (Dark and White) based on images from various brands such as Godiva and Lindt
 
 
