@@ -1,7 +1,7 @@
 # Chocolate-Classification
 
 ### Goal
-An easy project to help learners understand the basics concepts of Image Classification using Convolutional Neural Network and Tensorflow. The task is toc lassify different types of Chocolates (Dark and White) based on images from various brands such as Godiva and Lindt. Full dataset on Kaggle: -
+An easy project to help learners understand the basics concepts of Image Classification using Convolutional Neural Network and Tensorflow. The task is to classify different types of Chocolates (Dark and White) based on images from various brands such as Godiva and Lindt. Full dataset on Kaggle: -
 https://www.kaggle.com/datasets/siddharthmandgi/chocolate-classification
 
 
