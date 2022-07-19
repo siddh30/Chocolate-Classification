@@ -6,10 +6,10 @@ https://www.kaggle.com/datasets/siddharthmandgi/chocolate-classification
 
 
 <p float = "left">
-<img src = "https://storage.googleapis.com/kagglesdsdata/datasets/2316132/3899090/Chocolate%20Classification/Dark%20Chocolate/Image_139.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20220710%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20220710T222109Z&X-Goog-Expires=345599&X-Goog-SignedHeaders=host&X-Goog-Signature=8a3da5cb15974563d79c55618fbeb521fc888a5df9ef34045ffe2c9a83bccac925eb696805281dcec37fbc43e9fa8ff3e50358203e7a8585927231525631557d5e7dfe3b9ac05a221aea2e899698c6e185a0bd79f2476255eb9e7641e480f36c8d3212d702647add61ca7193a00beb2973dc3e377803199a6eee2782d6013610d1562596c99bc68485f3e6fea3158a773cfdade45e4bd00a26927b8175129082119016a638aae0116df20313edc152f9a9917be8f84fab0f678e536702ecaaf11bf10da43abbba7b8c55d8b9811d7e0872bc6c90893895328631c8aedcbf8d08e5a2510fc345d98586ed3fc49cba4476ec1cca85dde785e3cebbf60decdae845" height="200" width ="400">
+<img src = "https://github.com/siddh30/Chocolate-Classification/blob/main/Image_1.jpeg" height="200" width ="400">
 
 
-<img src = "https://storage.googleapis.com/kagglesdsdata/datasets/2316132/3899090/Chocolate%20Classification/White%20Chocolate/Image_1.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20220711%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20220711T184933Z&X-Goog-Expires=345599&X-Goog-SignedHeaders=host&X-Goog-Signature=600138d2eec04b175ef4f233880670937ab41b73eaf2538a4dad197d169ef4925d7896f1fcaef4d90e2c622e4983f7beb8f84c065d2ec6bd0d8bcb9d70e8201f387e4c5dfd70eb4bff54aef408802b42eac8cba28b5cc8625660585fd6fd1ead0221939eaf7c3c50d6dcb528a2135fc664f4dd2f702a909101cb565735ab99f3b25ce4051714f09d96fa62b3e49a700650589eb30961d41b3a987f1bb320c77071cca7f27690177eca3c8b5ed4db1c7369260a2ee46b7c65facb2f8a4802505b104eea1eb44c8d99b2e911fd091a125253e8f49b90a757700d5e21a1e6f2ffd07901492c8fee7e27a19a5474f8e2f064f815368c13854288b0a961c6f7f6d299" height="200" width ="400">
+<img src = "https://github.com/siddh30/Chocolate-Classification/blob/main/Image_139.jpeg" height="200" width ="400">
 </p>
 
 ### Approach
